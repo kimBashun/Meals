@@ -15,8 +15,26 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
+Aplikasi ini membahas tentang mengambil data movies dari <a href="www.themoviedb.org">The Movie Db</a> untuk di tampilkan di aplikasi android.
+
+### Feature
+- Http
+- RxDart
+- Json
+- API
+- BLoC
+
+### TODO
+- SQFlite
+
 ### Screenshots Aplikasi
 
 <pre>
 <img src="gambar/gambar1.png" width="250" height="444">         <img src="gambar/gambar2.png" width="250" height="444">         <img src="gambar/gambar3.png" width="250" height="444">         <img src="gambar/gambar4.png" width="250" height="444">
 </pre>
+
+## Author
+
+* **R Rifa Fauzi Komara**
+
+Jangan lupa untuk follow dan ★
