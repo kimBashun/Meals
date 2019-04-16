@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ### Screenshots Aplikasi
 
 <pre>
-<img src="gambar/gambar1.jpg" width="250" height="444">         <img src="gambar/gambar2.jpg" width="250" height="444">         <img src="gambar/gambar3.jpg" width="250" height="444">         <img src="gambar/gambar4.jpg" width="250" height="444">
+<img src="gambar/gambar1.png" width="250" height="444">         <img src="gambar/gambar2.png" width="250" height="444">         <img src="gambar/gambar3.png" width="250" height="444">         <img src="gambar/gambar4.png" width="250" height="444">
 </pre>
