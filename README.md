@@ -1,6 +1,6 @@
 # The Meal
 
-Aplikasi ini membahas tentang mengambil data makanan dari <a href="www.themealdb.com">The Meal Db</a> untuk di tampilkan di aplikasi Flutter.
+Aplikasi ini membahas tentang mengambil data makanan dari <a href="www.themealdb.com/">The Meal Db</a> untuk di tampilkan di aplikasi Flutter.
 
 ### Feature
 - <a href="https://flutter.dev/docs/cookbook/networking/fetch-data">Http</a>
