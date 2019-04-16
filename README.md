@@ -15,14 +15,13 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-Aplikasi ini membahas tentang mengambil data movies dari <a href="www.themoviedb.org">The Movie Db</a> untuk di tampilkan di aplikasi android.
+Aplikasi ini membahas tentang mengambil data makanan dari <a href="www.themealdb.com">The Meal Db</a> untuk di tampilkan di aplikasi Flutter.
 
 ### Feature
-- Http
-- RxDart
-- Json
-- API
-- BLoC
+- <a href="https://flutter.dev/docs/cookbook/networking/fetch-data">Http</a>
+- <a href="https://pub.dartlang.org/packages/rxdart">RxDart</a>
+- <a href="www.themealdb.com">API</a>
+- <a href="https://felangel.github.io/bloc/#/gettingstarted">BLoC</a>
 
 ### TODO
 - SQFlite
