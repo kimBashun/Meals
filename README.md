@@ -10,6 +10,9 @@ Aplikasi ini membahas tentang mengambil data makanan dari <a href="https://www.t
 
 ### TODO
 - SQFlite
+- Flavor
+- Integration Test
+- Unit Test
 
 ### Screenshots Aplikasi
 
