@@ -20,6 +20,9 @@ Aplikasi ini membahas tentang mengambil data makanan dari <a href="https://www.t
 <img src="gambar/gambar1.png" width="250" height="444">         <img src="gambar/gambar2.png" width="250" height="444">         <img src="gambar/gambar3.png" width="250" height="444">         <img src="gambar/gambar4.png" width="250" height="444">
 </pre>
 
+### Ref
+Edwin Nurwansyah
+
 ## Author
 
 * **R Rifa Fauzi Komara**
